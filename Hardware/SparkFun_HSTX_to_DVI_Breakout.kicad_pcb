@@ -673,7 +673,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R4"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "F.Fab")
 			(uuid "dbcf120c-d9c8-4c8c-9552-32e8b8d937f2")
 			(effects
@@ -685,7 +685,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "c6a23106-bb7d-4cbc-999b-e9a2b9679cb6")
 			(effects
@@ -897,6 +897,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -908,6 +909,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2462,6 +2464,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2473,6 +2476,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4947,7 +4951,7 @@
 		(at 109.5 126 180)
 		(tags "SparkFun capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.Fab")
 			(uuid "fd6af431-c466-4f82-addb-2c605a0fde17")
 			(effects
@@ -4959,7 +4963,7 @@
 			)
 		)
 		(property "Value" "1.0uF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ea4276a1-8cfd-42df-a052-86e4339565c4")
 			(effects
@@ -5190,7 +5194,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "SparkFun resistor")
 		(property "Reference" "R5"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "F.Fab")
 			(uuid "580657e1-857a-495d-91d4-c4993e8df2df")
 			(effects
@@ -5202,7 +5206,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "bcdd5a53-f518-43bf-99e5-47bb0599d234")
 			(effects
@@ -5533,7 +5537,7 @@
 		)
 		(fp_arc
 			(start 0.762 -1.016)
-			(mid 1.08529 -0.88209)
+			(mid 1.085289 -0.882089)
 			(end 1.2192 -0.5588)
 			(stroke
 				(width 0.1524)
@@ -5633,6 +5637,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -5645,6 +5650,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6297,6 +6303,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6309,6 +6316,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6438,6 +6446,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -6450,6 +6459,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7107,7 +7117,7 @@
 		)
 		(fp_arc
 			(start 0.762 -1.016)
-			(mid 1.08529 -0.88209)
+			(mid 1.085289 -0.882089)
 			(end 1.2192 -0.5588)
 			(stroke
 				(width 0.1524)
@@ -7174,6 +7184,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7186,6 +7197,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -7473,6 +7485,18 @@
 		(at 215.34 175.605 0)
 		(layer "Eco1.User")
 		(uuid "30b1993c-ca4e-4402-89a2-312692df3a0a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Impedance: JLC7628"
+		(at 245.8 171.6 0)
+		(layer "Eco1.User")
+		(uuid "3606144c-8ab1-45ec-a14d-a68de759e83e")
 		(effects
 			(font
 				(size 1.27 1.27)
