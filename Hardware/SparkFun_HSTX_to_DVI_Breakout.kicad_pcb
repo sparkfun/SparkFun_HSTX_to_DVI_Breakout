@@ -2130,7 +2130,7 @@
 				)
 			)
 		)
-		(property "PROD_ID" "TRANS-25647"
+		(property "PROD_ID" "TRANS-25637"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4659,7 +4659,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a54fdf30-0839-458d-8d64-fa89c6efb410")
+		(path "/c70a96bd-88d8-4353-bf33-204826c30a11")
 		(sheetname "Root")
 		(sheetfile "SparkFun_HSTX_to_DVI_Breakout.kicad_sch")
 		(attr smd)
