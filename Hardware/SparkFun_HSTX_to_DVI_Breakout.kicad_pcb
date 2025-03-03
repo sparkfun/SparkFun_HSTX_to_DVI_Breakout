@@ -4196,7 +4196,7 @@
 			(at 0 -1.7 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "f751726e-b1a8-4c8f-a122-7b58b5b3b155")
+			(uuid "79834ff0-6398-45ce-a577-22f26c4e4856")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4208,7 +4208,7 @@
 			(at 0 11.85 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "92cf4f04-86f8-490f-a014-a3335f65e20f")
+			(uuid "02e7c5a9-fe77-499b-ae89-f3a5589aaef0")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4221,7 +4221,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d790f332-0976-4af4-ac0a-5718ba8a4940")
+			(uuid "d5aa4593-72e2-4e37-8100-7010e70561c5")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4234,7 +4234,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8715b691-8656-4132-8f5d-8f713074e780")
+			(uuid "46d1e974-1d37-41d6-8abc-a839cc4d04b3")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4247,11 +4247,24 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "889038b8-6dfd-4ac4-9a5c-235e63f118bd")
+			(uuid "62da45ba-068d-49a8-9706-3566d4ffd193")
 			(effects
 				(font
 					(size 0.5 0.5)
 					(thickness 0.1)
+				)
+			)
+		)
+		(property "PROD_ID" "CONN-25635"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f1ef980-3225-416f-83e2-bf1e3325c73f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4267,7 +4280,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "8a32d26d-1d52-411e-9404-fd4915686254")
+			(uuid "119e2b3a-a3f7-4c61-a8da-a913931597c4")
 		)
 		(fp_line
 			(start -7.9 2.5)
@@ -4277,7 +4290,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "0c5847f7-d1e8-4e01-a36e-9e4d80a4d336")
+			(uuid "8832047d-2adb-4c97-ab78-725735f2ee8b")
 		)
 		(fp_circle
 			(center 5.3 -1)
@@ -4288,7 +4301,7 @@
 			)
 			(fill solid)
 			(layer "F.SilkS")
-			(uuid "67cd5cc5-f491-4cdf-9bc0-034aa365182f")
+			(uuid "81eaf0f3-063c-4767-90da-a139a985d91d")
 		)
 		(fp_rect
 			(start -8 -1.3)
@@ -4299,7 +4312,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b362e2ec-d9bb-469c-b51e-01132c652749")
+			(uuid "2c18f206-64f5-4712-b689-8096948ac45d")
 		)
 		(fp_line
 			(start 7.25 -0.24)
@@ -4309,7 +4322,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "c27c5c84-2563-4c81-aa53-507433dab964")
+			(uuid "6dc65c6e-cca3-44ac-a4dc-581d71217ecf")
 		)
 		(fp_line
 			(start -7.25 -0.24)
@@ -4319,7 +4332,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "f1772c6c-9416-47bb-895d-18e3ce6e3683")
+			(uuid "7cd0a0b3-85f6-42b0-bc34-467ff4ff75a4")
 		)
 		(fp_line
 			(start -7.25 11.36)
@@ -4329,7 +4342,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "7e94f408-2425-4342-8f9a-9ecb6cf40830")
+			(uuid "da4a92b7-8202-4532-b671-25bfee26ac53")
 		)
 		(fp_line
 			(start -7.25 11.36)
@@ -4339,7 +4352,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "101ba4d8-0cb0-4f87-884b-f68ed0b0440a")
+			(uuid "561db75e-2066-4f51-b606-f385c3eb7fc4")
 		)
 		(pad "1" smd rect
 			(at 4.5 0 270)
@@ -4348,7 +4361,7 @@
 			(net 22 "/HDMI_D2+")
 			(pinfunction "D2+")
 			(pintype "passive")
-			(uuid "cd294c3d-d780-4900-8bba-759ae9ac1c3d")
+			(uuid "3aa2ef19-2d20-4212-b557-9e76cb36d71a")
 		)
 		(pad "2" smd rect
 			(at 4 0 270)
@@ -4357,7 +4370,7 @@
 			(net 1 "GND")
 			(pinfunction "D2S")
 			(pintype "power_in")
-			(uuid "e18b41dc-c89e-4eb3-8c44-96509e351fa1")
+			(uuid "d9763821-d407-4dbf-8ed4-cac63bfa7595")
 		)
 		(pad "3" smd rect
 			(at 3.5 0 270)
@@ -4366,7 +4379,7 @@
 			(net 14 "/HDMI_D2-")
 			(pinfunction "D2-")
 			(pintype "passive")
-			(uuid "69970413-cee5-4385-9c69-e3f1f690e2d2")
+			(uuid "63917d47-dd26-48d1-aff2-9fdf4046b3a3")
 		)
 		(pad "4" smd rect
 			(at 3 0 270)
@@ -4375,7 +4388,7 @@
 			(net 23 "/HDMI_D1+")
 			(pinfunction "D1+")
 			(pintype "passive")
-			(uuid "dfbbbd55-5efe-4f27-be4f-e450a73af8bb")
+			(uuid "3fe3f3b7-e970-4902-8868-ce7f39803092")
 		)
 		(pad "5" smd rect
 			(at 2.5 0 270)
@@ -4384,7 +4397,7 @@
 			(net 1 "GND")
 			(pinfunction "D1S")
 			(pintype "power_in")
-			(uuid "55eb38c3-0fe0-4a43-b95d-931b2a230caa")
+			(uuid "98c41182-3331-4538-9c69-87878f523aec")
 		)
 		(pad "6" smd rect
 			(at 2 0 270)
@@ -4393,7 +4406,7 @@
 			(net 13 "/HDMI_D1-")
 			(pinfunction "D1-")
 			(pintype "passive")
-			(uuid "156c1ad7-7a94-4de6-a111-6180c6ebb9b9")
+			(uuid "52ed5baa-2766-44f7-b668-43ab794b9757")
 		)
 		(pad "7" smd rect
 			(at 1.5 0 270)
@@ -4402,7 +4415,7 @@
 			(net 17 "/HDMI_D0+")
 			(pinfunction "D0+")
 			(pintype "passive")
-			(uuid "8f47ada5-2862-4b6e-8fb6-904c0544598b")
+			(uuid "ab64dcda-a7fd-402e-b32f-3d2033e2160d")
 		)
 		(pad "8" smd rect
 			(at 1 0 270)
@@ -4411,7 +4424,7 @@
 			(net 1 "GND")
 			(pinfunction "D0S")
 			(pintype "power_in")
-			(uuid "86279d08-1186-4e85-a19b-ec6e40539f31")
+			(uuid "7229e59b-7197-4986-bac7-b89a296ec756")
 		)
 		(pad "9" smd rect
 			(at 0.5 0 270)
@@ -4420,7 +4433,7 @@
 			(net 20 "/HDMI_D0-")
 			(pinfunction "D0-")
 			(pintype "passive")
-			(uuid "b1e763e6-a9dd-4570-bc93-231dbdcec94b")
+			(uuid "cdd17ce9-b14e-4d60-af06-7f14e73bbabc")
 		)
 		(pad "10" smd rect
 			(at 0 0 270)
@@ -4429,7 +4442,7 @@
 			(net 19 "/HDMI_CK+")
 			(pinfunction "CK+")
 			(pintype "passive")
-			(uuid "a331b045-7d91-4b1c-9e61-438c8efb72ce")
+			(uuid "7856399f-b062-47fb-a7ba-23e8382bbfbb")
 		)
 		(pad "11" smd rect
 			(at -0.5 0 270)
@@ -4438,7 +4451,7 @@
 			(net 1 "GND")
 			(pinfunction "CKS")
 			(pintype "power_in")
-			(uuid "8eec177c-4bd6-4f6b-933b-7e68be9b3b9a")
+			(uuid "82401dd6-1811-4f47-af39-8091e7b713a5")
 		)
 		(pad "12" smd rect
 			(at -1 0 270)
@@ -4447,7 +4460,7 @@
 			(net 24 "/HDMI_CK-")
 			(pinfunction "CK-")
 			(pintype "passive")
-			(uuid "f6446d70-1d24-4a68-ad1f-05f0e7d1948e")
+			(uuid "b85f9faf-a9ff-4291-9823-a5312f8ba107")
 		)
 		(pad "13" smd rect
 			(at -1.5 0 270)
@@ -4456,7 +4469,7 @@
 			(net 15 "/CEC")
 			(pinfunction "CEC")
 			(pintype "bidirectional")
-			(uuid "7774ea2c-8eb5-413e-87d1-01bd9d5d7df1")
+			(uuid "fdcafb70-56a5-40f6-bdae-86911f983d34")
 		)
 		(pad "14" smd rect
 			(at -2 0 270)
@@ -4465,7 +4478,7 @@
 			(net 18 "unconnected-(J2-UTILITY-Pad14)")
 			(pinfunction "UTILITY")
 			(pintype "passive+no_connect")
-			(uuid "9687bbde-63f0-4224-8999-285dcea79504")
+			(uuid "2eca08c0-04c7-43c0-be3b-fb0cbea3f8af")
 		)
 		(pad "15" smd rect
 			(at -2.5 0 270)
@@ -4474,7 +4487,7 @@
 			(net 21 "/5V_SCL")
 			(pinfunction "SCL")
 			(pintype "passive")
-			(uuid "c4b94b1f-902c-4945-a382-3601ece15c43")
+			(uuid "bba1d6c7-8706-4830-8d9d-19181baea03d")
 		)
 		(pad "16" smd rect
 			(at -3 0 270)
@@ -4483,7 +4496,7 @@
 			(net 12 "/5V_SDA")
 			(pinfunction "SDA")
 			(pintype "bidirectional")
-			(uuid "0af12a34-c102-401f-b77f-9f8358584bec")
+			(uuid "5e955c66-673f-47d6-a276-c350a823d596")
 		)
 		(pad "17" smd rect
 			(at -3.5 0 270)
@@ -4492,7 +4505,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "784f0b35-d3c0-404c-94a2-1039b9788180")
+			(uuid "5c7d9762-7233-4aba-a6db-b8a82c8dff3e")
 		)
 		(pad "18" smd rect
 			(at -4 0 270)
@@ -4501,7 +4514,7 @@
 			(net 5 "5V")
 			(pinfunction "+5V")
 			(pintype "power_in")
-			(uuid "35b2db03-087c-476b-86e9-71bebb0e13d2")
+			(uuid "e1882ea0-51b3-438e-a4e2-04e59cdcfb97")
 		)
 		(pad "19" smd rect
 			(at -4.5 0 270)
@@ -4510,7 +4523,7 @@
 			(net 16 "/5V_HOTPLUG")
 			(pinfunction "HPD")
 			(pintype "passive")
-			(uuid "895a824a-6648-45dc-87d3-22ec9a0713b7")
+			(uuid "225b00d4-39d4-45f9-a46e-5d1bd00d9ca2")
 		)
 		(pad "SH" thru_hole oval
 			(at -7.25 0.76 90)
@@ -4519,11 +4532,11 @@
 			(layers "*.Cu" "*.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections "In1.Cu")
+			(zone_layer_connections)
 			(net 1 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "a1251110-badf-4d65-b2d7-c93b53c3afc3")
+			(uuid "878e0dd0-047e-45aa-ba4a-7ce4312a4b15")
 		)
 		(pad "SH" thru_hole oval
 			(at -7.25 6.72 90)
@@ -4532,11 +4545,11 @@
 			(layers "*.Cu" "*.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections "In1.Cu")
+			(zone_layer_connections)
 			(net 1 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "ebccbac7-e815-47a3-aaad-dfa4de2319d3")
+			(uuid "093dc70f-e48a-4111-bc5e-b80ae82379ce")
 		)
 		(pad "SH" thru_hole oval
 			(at 7.25 0.76 90)
@@ -4545,11 +4558,11 @@
 			(layers "*.Cu" "*.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections "In1.Cu")
+			(zone_layer_connections)
 			(net 1 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "961308ab-bfa3-47ce-a6e6-6ee447ee1a23")
+			(uuid "a9c83bec-bfd0-44f0-9e65-b680b2f05eb7")
 		)
 		(pad "SH" thru_hole oval
 			(at 7.25 6.72 90)
@@ -4558,11 +4571,11 @@
 			(layers "*.Cu" "*.Mask" "F.Paste")
 			(remove_unused_layers yes)
 			(keep_end_layers yes)
-			(zone_layer_connections "In1.Cu")
+			(zone_layer_connections)
 			(net 1 "GND")
 			(pinfunction "SH")
 			(pintype "passive")
-			(uuid "9626ddd8-ea1e-43ef-a071-f27b18b8695e")
+			(uuid "c4a3d40b-d662-4244-8f8e-d14fa71fc0f9")
 		)
 	)
 	(footprint "SparkFun-Resistor:R_0804_Array_Convex"
@@ -4646,7 +4659,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c70a96bd-88d8-4353-bf33-204826c30a11")
+		(path "/a54fdf30-0839-458d-8d64-fa89c6efb410")
 		(sheetname "Root")
 		(sheetfile "SparkFun_HSTX_to_DVI_Breakout.kicad_sch")
 		(attr smd)

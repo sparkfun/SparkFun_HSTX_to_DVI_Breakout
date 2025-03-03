@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "SparkFun HSTX to DVI Breakout")
+		(date "2025-03-03")
 		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Alex Brudner")
@@ -2504,6 +2505,15 @@
 			)
 			(property "Description" "19P Female HDMI Horizontal attachment 1 500mA"
 				(at 0.254 -42.926 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PROD_ID" "CONN-25635"
+				(at 0.254 -48.006 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7351,6 +7361,15 @@
 		)
 		(property "Description" "19P Female HDMI Horizontal attachment 1 500mA"
 			(at 254.254 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "CONN-25635"
+			(at 254.254 130.556 0)
 			(effects
 				(font
 					(size 1.27 1.27)
