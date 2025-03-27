@@ -1,41 +1,22 @@
-SparkFun <PRODUCT NAME>
+SparkFun HSTX to DVI Breakout
 ========================================
 
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun HSTX to DVI Breakout ](https://cdn.sparkfun.com/r/600-600/assets/parts/3/0/2/7/9/28468-HSTX-to-DVI-Breakout-Feature.jpg)](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun HSTX to DVI Breakout  (BOB-28468)*](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html)
 
-<Basic description of the part.>
+The SparkFun HSTX to DVI Breakout takes the 22-pin interface found on the HSTX connector on the IoT RedBoard - RP2350 as well as the camera and display connectors on a Rasbperry Pi 5 and translates it to an HDMI connector for DVI output.
+
+The board includes a 22-pin flex cable connector and HDMI connector along with the required components to level shift and boost the voltage for compatability with DVI signal requirements.
 
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
-* **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
-
-Documentation
---------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
 
 Product Versions
 ----------------
-* [Part SKU](part URL) - Basic part and short description here
-* [Retail part SKU](retail URL) - Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [BOB-28468](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html) - HSTX to DVI Breakout for the RedBoard IoT - RP2350.
 
 License Information
 -------------------
@@ -49,5 +30,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_
