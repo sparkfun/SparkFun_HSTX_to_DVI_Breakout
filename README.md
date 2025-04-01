@@ -1,7 +1,7 @@
 SparkFun HSTX to DVI Breakout
 ========================================
 
-[![SparkFun HSTX to DVI Breakout ](https://cdn.sparkfun.com/r/600-600/assets/parts/3/0/2/7/9/28468-HSTX-to-DVI-Breakout-Feature.jpg)](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html)
+[![SparkFun HSTX to DVI Breakout ](./docs/assets/img/SparkFun_HSTX_to_DVI_Breakout-Banner.jpg)](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html)
 
 [*SparkFun HSTX to DVI Breakout  (BOB-28468)*](https://www.sparkfun.com/sparkfun-hstx-to-dvi-breakout.html)
 
